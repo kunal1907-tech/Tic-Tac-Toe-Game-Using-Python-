@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game-Using-Python
+
 # 🎮 Tic Tac Toe Game (Python)
 
 A simple **two-player Tic Tac Toe** game built in Python that runs in the terminal.
