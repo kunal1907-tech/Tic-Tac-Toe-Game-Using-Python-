@@ -11,8 +11,8 @@ A simple **two-player Tic Tac Toe** game built in Python that runs in the termin
 - Automatically stops the game when someone wins
 
 ### 🖥️Sample Gameplay
-Welcome to Tic Tac Toe
 
+Welcome to Tic Tac Toe
 0 | 1 | 2
 --|---|---
 3 | 4 | 5
